@@ -1,4 +1,5 @@
 # PGM File Parser for Java
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ## Overview
 This project provides a Java-based solution for parsing and displaying Portable Graymap (Pgm) files. It is designed to be simple to integrate into existing Java projects, requiring Java 8 or higher and Maven for dependency management. The parser supports ASCII Pgm files ("P2" format) and offers functionality to zoom and display images using a Swing-based GUI.
 Features
